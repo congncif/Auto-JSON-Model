@@ -1,4 +1,4 @@
-# Auto-JSON-Model
+# Auto-JSON-Model 1.1
 Auto create JSON Model files
 
 You often use JSON Model as a third-party library to parse JSON data.
@@ -10,5 +10,4 @@ That's great! Star me if it is useful for you.
 ![Alt text](http://i.imgur.com/SYYMxi7b.png "JSON Model")
 
 #Download Now
-+ Dropbox: https://www.dropbox.com/sh/y6eicxflmxa15ys/AABD_CGdqRfPQ8h_GXBH-9Poa
-+ Google Drive: https://drive.google.com/file/d/0ByKPz36dMdLMcm53VDdHQ0txNkE/view
++ Google Drive: https://drive.google.com/file/d/0ByUsGDsjcT8oNEN4T0FSOVBqTUE/view
