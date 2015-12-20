@@ -13,4 +13,4 @@ What's new in 1.2:
 - Support generating swagger text
 
 #Download Now
-+ Dropbox: https://www.dropbox.com/s/kb9snn7aidnl58h/AutoJSONModel%201.2.dmg?dl=0
++ Dropbox: https://drive.google.com/file/d/0ByUsGDsjcT8oSVhKVGdKYXhYRzQ/view?usp=sharing
