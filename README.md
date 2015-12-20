@@ -13,4 +13,4 @@ What's new in 1.2:
 - Support generating swagger text
 
 #Download Now
-+ Dropbox: https://drive.google.com/file/d/0ByUsGDsjcT8oSVhKVGdKYXhYRzQ/view?usp=sharing
++ Link: https://drive.google.com/file/d/0ByUsGDsjcT8oSVhKVGdKYXhYRzQ/view?usp=sharing
